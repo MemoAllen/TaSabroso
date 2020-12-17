@@ -1,0 +1,71 @@
+body {
+    background: #44A08D;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #093637, #44A08D);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #093637, #44A08D);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#carrusel {
+    /*width: 800px;
+    height: 600px;*/
+}
+
+h2 {
+    text-align: center;
+    color: aquamarine;
+}
+
+h3 {
+    text-align: center;
+    color: cadetblue;
+}
+
+#credi {
+    text-align: center;
+    color: cornflowerblue;
+}
+
+#menuPizza {
+    width: 70px;
+    height: 60px;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+#menuH {
+    width: 120px;
+    height: 80px;
+}
+
+#menuL {
+    width: 100px;
+    height: 100px;
+}
+
+#for {
+    width: 100px;
+    height: 100px;
+}
+
+h5 {
+    font-size: 20vw;
+}
+
+#map {
+    width: 600px;
+    height: 600px;
+    padding-left: 50px;
+}
+
+
+#pie {
+    background: black;
+}
+
+#letra {
+    color: aquamarine;
+}
